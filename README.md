@@ -1,5 +1,9 @@
 # Cryptocurrency Dashboard Analysis
 
+![Cryptocurrency Dashboard](Add your dashboard image link here)
+
+**Dataset Link:** [Add your dataset link here]
+
 ##  Overview
 This cryptocurrency dashboard provides a detailed analysis of crypto market trends using key financial indicators such as High, Low, Open, Close, Volume, and Market Capitalization over time. It was created using **Power BI**, integrating data cleaning, transformations, and DAX calculations to extract meaningful insights.
 
