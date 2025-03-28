@@ -1,6 +1,6 @@
 # Cryptocurrency Dashboard Analysis
 
-![Cryptocurrency Dashboard](Add your dashboard image link here)
+![Cryptocurrency Dashboard](https://github.com/HimanshuSharma123-a/CRYPTOCURRENCY-DASHBOARD/blob/main/CRYPTOCURRENCY%20DASHBOARD.png)
 
 **Dataset Link:** [Add your dataset link here]
 
